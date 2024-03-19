@@ -89,12 +89,11 @@ public class Queue {
     } 
 
     public void revolution() {
+        WAAAAAA.throwITBACK();
+
         if (WHAITisTHsiWHELllo == null) {
-            WAAAAAA.throwITBACK();
             return;
         };
-
-        WAAAAAA.throwITBACK();
 
         listThatGOESbigANDSMAllAllALone aNOTHERLIST= this.kILLtheFIRSTyousee();
         this.revolution();
